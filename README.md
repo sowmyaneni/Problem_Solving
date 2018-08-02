@@ -3,7 +3,7 @@
 These are the problems sets that I solved in the course:
 MIT - Introduction to Computer Science and Programming Using Python
 
-1) `find_vowels_in_string.py` - Finding number of vowels in a any string.
+1) `find_vowels_in_string.py` - Finding number of vowels in any string.
 
 2) `find_word_occurrence_in_string.py` - Finding the occurrence of string `bob` in any string.
 
